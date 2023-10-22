@@ -33,14 +33,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
-	def getCity():
-		return Hyderabad_India()
 	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
