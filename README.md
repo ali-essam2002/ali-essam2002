@@ -10,7 +10,7 @@
 ### I am student in computer sciences in HTI, I learned python and data science, I have some skills in photography and photo editing
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100">&nbsp;***Languages and Tools ....***
+<h1> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Languages and Tools ... </h1>
  
 <div>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -38,7 +38,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> 
+      </a> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg" alt="sass" width="40"
+      height="40" /> </a> 
+            </a> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tensorflow/tensorflow-original.svg" alt="sass" width="40"
+      height="40" /> </a> 
+</p>
 
 </div>
 
