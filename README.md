@@ -7,7 +7,7 @@
 
 </br>
 
-### I am student in computer sciences in HTI, I learned python and data science, I have some skills in photography and photo editing
+### I am Graduated from  computer sciences in HTI, I learned python and data science, I have some skills in photography and photo editing
 
 
 <h1> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Languages and Tools ... </h1>
@@ -57,7 +57,7 @@
 
  
 ## Current Works
- * I am student in computer sciences in **HTI**
+ * I am Graduated from  computer sciences in **HTI**
 
 </br>
 </br>
