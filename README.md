@@ -56,6 +56,3 @@
   <a href="https://twitter.com/Ali_Essam2002"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-essam2002&color=58ffdb&style=plastic&label=Profile+Hits" />
-</p>
