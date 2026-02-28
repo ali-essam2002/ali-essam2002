@@ -1,8 +1,20 @@
 # <p align="center">✨ Ali Essam | Advanced Tech Portfolio ✨</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=080d12&height=250&section=header&text=Ali%20Essam&fontSize=100&fontColor=58ffdb&animation=fadeIn&desc=Computer%20Science%20Graduate%20•%20Data%20Engineer%20•%20Python%20Expert&descSize=22&descAlign=70&descAlignY=70" width="100%" />
-</p>
+<div align="center">
+
+<pre>
+ █████╗ ██╗     ██╗    ███████╗███████╗███████╗ █████╗ ███╗   ███╗
+██╔══██╗██║     ██║    ██╔════╝██╔════╝██╔════╝██╔══██╗████╗ ████║
+███████║██║     ██║    █████╗  ███████╗███████╗███████║██╔████╔██║
+██╔══██║██║     ██║    ██╔══╝  ╚════██║╚════██║██╔══██║██║╚██╔╝██║
+██║  ██║███████╗██║    ███████╗███████║███████║██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═╝    ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A5;Python+Developer+%F0%9F%90%8D;ETL+Pipeline+Builder+%E2%9A%99%EF%B8%8F;Turning+Raw+Data+into+Gold+%F0%9F%92%A1" alt="Typing SVG" />
+
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58ffdb?style=for-the-badge&logo=apache-spark&logoColor=black" />
