@@ -1,4 +1,4 @@
-# <p align="center">✨ Ali Essam | Advanced Tech Portfolio ✨</p>
+# <p align="center">✨ Ali Essam | Tech Portfolio ✨</p>
 
 <div align="center">
 
