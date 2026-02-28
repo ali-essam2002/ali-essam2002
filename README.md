@@ -5,7 +5,7 @@
 
 <br/>
 
-### I graduated with a degree in Computer Science from HTI. I am skilled in Python and data science, and I also have experience in photography and photo editing.
+### I graduated with a degree in Computer Science from HTI. I am skilled in Python and Data Engineering , and I also have experience in photography and photo editing.
 
 <h1>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> 
@@ -50,7 +50,7 @@
 ## Current Work
 
 - 💻 Graduated in Computer Science from **HTI**
-- 🐍 Passionate about Python and Data Science
+- 🐍 Passionate about Python and Data Engineering
 - 📸 Skilled in photography and photo editing
 
 <br/>
